@@ -1,0 +1,21 @@
+{
+  "name": "shopify_challenge_sean_hodges",
+  "version": "1.0.0",
+  "description": "Sean Hodges' submission for the Shopify Winter 2019 Developer Intern Challenge ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shopify"
+  ],
+  "author": "Sean Hodges",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-prettify": "^0.1.0",
+    "pg": "^7.4.3",
+    "sqlite3": "^4.0.2"
+  }
+}
